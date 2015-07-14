@@ -1,0 +1,15 @@
+body{
+	background: url(../images/back-about.jpg);
+	background-size: 110%;
+	overflow-y:scroll;
+}
+
+h4{
+
+	font-size: 25px;
+
+	font-family: "Sinhala Sangam MN";
+  color: rgb( 255, 255, 255 );
+  font-variant: small-caps;
+  line-height: 0.2;
+}
