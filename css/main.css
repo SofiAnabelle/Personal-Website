@@ -32,6 +32,17 @@ z-index: 1;
 
 }
 
+#logo{
+width: 7%;
+position: absolute;
+right: 10px;
+z-index: 10;
+opacity: 1;
+	top:10px;
+
+}
+
+
 .nav{
 
 	width: 100%;
@@ -105,6 +116,11 @@ ul{
 	width: 2%;
 }
 
+#be{
+		width: 2.2%;
+
+
+}
 #cvback{
 	width: 100%;
 	z-index: 0;
@@ -263,4 +279,43 @@ iframe{
   font-weight: bold;
 }
 
+form{
+	position: relative;
+	z-index: 10;
+	text-align: right;
+	right: 40%;
+}
 
+
+h1{
+	position: relative;
+	
+  text-align: center;
+}
+
+#form{
+	z-index: 10;
+	color: #FFF;
+  font-family: "Sinhala Sangam MN";
+  color: rgb( 255, 255, 255 );
+  font-variant: small-caps;
+  line-height: 0.8;
+  position: relative;
+  top:100px;
+}
+
+.input-space{
+width: 200px;
+}
+.input-box{
+	width: 200px;
+	height: 100px;
+}
+
+#form a{
+	color:#FFF;
+}
+
+#thankyou{
+	text-align: center;
+}

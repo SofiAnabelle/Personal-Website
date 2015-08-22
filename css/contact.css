@@ -1,0 +1,7 @@
+body{
+	background: url(../images/contact-back.png);
+}
+
+form{
+	z-index: 10;
+}
